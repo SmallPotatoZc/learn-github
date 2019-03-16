@@ -1,2 +1,1 @@
-# learn-github
-学习使用 github
+# 学习 Git 工具和 Github
